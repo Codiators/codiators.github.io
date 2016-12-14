@@ -30,7 +30,6 @@ paginate: 10
 paginate_path: "/blog/:num/"
 permalink: pretty
 
-<<<<<<< HEAD
 jekyll-archives:
   enabled:
     - "categories"
@@ -62,25 +61,10 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-=======
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
->>>>>>> cc1aa8f6a5cd27361b7508fb93545577533e1615
 
 # -----------
 # CloudCannon
 
-<<<<<<< HEAD
 social_icons:
   - Facebook
   - Google Plus
@@ -91,8 +75,3 @@ social_icons:
   - Twitter
   - YouTube
   - RSS
-=======
-# Build settings
-markdown: kramdown
-permalink: pretty
->>>>>>> cc1aa8f6a5cd27361b7508fb93545577533e1615
