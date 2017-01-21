@@ -11,7 +11,9 @@ map:
 
 <section class="diagonal">
 	<div class="container">
-		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
+		<form action="https://formspree.io/codiatorsleague@gmail.com"
+      		method="POST" class="contact-form">
+			
 			<input type="hidden" name="_to" value="support@example.com" />
 			<input type="text" name="_gotcha" style="display: none;" />
 
@@ -28,12 +30,13 @@ map:
 			</div>
 
 			<label for="email">Email Address</label>
-			<input type="email" name="email" id="email" placeholder="john@example.com" required />
+			<input type="email" name="_replyto" id="email" placeholder="john@example.com" required />
 
 			<label for="message">Message</label>
 			<textarea name="message" id="message" placeholder="Hi There..."></textarea>
 
-			<input type="submit" value="Send Message" />
+			<!-- <input type="submit" value="Send" /> -->
+			<input type="submit" value="Send">
 		</form>
 	</div>
 </section>

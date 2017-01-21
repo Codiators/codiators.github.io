@@ -37,7 +37,8 @@
 	<body>
 		<header>
 			<div class="container">
-				<h1 class="company-name"><a href="/"><img src="/images/logo.svg" alt="Urban" width="150"></a></h1>
+				<h1 class="company-name"><a href="/">
+				<!-- <img src="/images/logo.svg" alt="Urban" width="150"> -->CODIATORS</a></h1>
 				<nav>
 	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
 	<ul>
@@ -84,7 +85,9 @@
 
 <section class="diagonal">
 	<div class="container">
-		<form action="/contact-success/" method="post" class="contact-form">
+		<form action="https://formspree.io/codiatorsleague@gmail.com"
+      		method="POST" class="contact-form">
+			
 			<input type="hidden" name="_to" value="support@example.com" />
 			<input type="text" name="_gotcha" style="display: none;" />
 
@@ -101,12 +104,13 @@
 			</div>
 
 			<label for="email">Email Address</label>
-			<input type="email" name="email" id="email" placeholder="john@example.com" required />
+			<input type="email" name="_replyto" id="email" placeholder="john@example.com" required />
 
 			<label for="message">Message</label>
 			<textarea name="message" id="message" placeholder="Hi There..."></textarea>
 
-			<input type="submit" value="Send Message" />
+			<!-- <input type="submit" value="Send" /> -->
+			<input type="submit" value="Send">
 		</form>
 	</div>
 </section>
@@ -287,7 +291,7 @@
 
 			<div class="legal-line">
 				<p class="container">
-					&copy; 2016 Urban Ltd
+					&copy; 2017 Urban Ltd
 					&bull;
 					Template by <a href="http://cloudcannon.com/">CloudCannon</a>
 				</p>

@@ -2,7 +2,7 @@
 title: The history of marketing
 categories:
   - marketing
-author_staff_member: james
+author_staff_member: prem
 show_comments: true
 ---
 
