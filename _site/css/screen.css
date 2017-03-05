@@ -9,7 +9,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 a {
-  color: #FFA715;
+  color: #044ed1;
   text-decoration: none; }
 
 a:hover {
@@ -111,7 +111,7 @@ section, footer {
       transform: skewY(5deg); }
   section.hero, footer.hero {
     color: #ffffff;
-    background: #FFA715;
+    background: #044ed1;
     text-align: left;
     margin-top: -100px;
     padding-top: 250px; }
@@ -132,7 +132,7 @@ section, footer {
   padding: 13px 38px;
   border-radius: 3px;
   display: inline-block;
-  color: #FFA715;
+  color: #044ed1;
   text-decoration: none;
   cursor: pointer;
   margin: 20px 0 0 0;
@@ -180,7 +180,7 @@ section, footer {
     margin: 20px;
     border-radius: 5px;
     text-align: left;
-    border: 1px solid #FFA715;
+    border: 1px solid #044ed1;
     line-height: 0; }
     @media (min-width: 450px) {
       .image-grid li {
@@ -211,7 +211,7 @@ section, footer {
     padding: 20px; }
   .image-grid .name {
     font-size: 1.3rem;
-    color: #FFA715; }
+    color: #044ed1; }
   .image-grid .position {
     margin-top: 5px;
     color: #fff; }
@@ -302,12 +302,12 @@ input[type=submit] {
   padding: 20px 30px;
   border-radius: 3px;
   transition: 0.2s ease-in-out;
-  border: 1px solid #FFA715;
-  background: #FFA715;
+  border: 1px solid #044ed1;
+  background: #044ed1;
   cursor: pointer; }
 
 input[type=submit]:hover {
-  border: 1px solid #FFA715;
+  border: 1px solid #044ed1;
   background: #FFC461; }
 
 input[type=submit]:active {
@@ -432,7 +432,7 @@ nav {
       border-radius: 5px; }
       nav a.highlight:hover {
         background: #fff;
-        color: #FFA715; } }
+        color: #044ed1; } }
   nav a.active {
     color: #fff; }
 
