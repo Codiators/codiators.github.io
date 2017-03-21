@@ -1,6 +1,6 @@
 ---
 name: Sulay Thakkar
-position: Designer
+position: Developer
 image_path: "/images/sulay.jpg"
 twitter: CloudCannonApp
 ---

@@ -1,6 +1,6 @@
 ---
 name: Prem Patel
-position: Co-founder
+position: Developer
 image_path: "/images/prem.jpg"
 twitter: CloudCannonApp
 ---

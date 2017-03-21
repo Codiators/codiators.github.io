@@ -20,6 +20,7 @@ header {
 	top: 0;
 	left: 0;
 	width: 100%;
+	
 
 	a {
 		color: #fff;
@@ -27,14 +28,20 @@ header {
 		z-index: 1;
 		position: relative;
 
+
 		&:hover {
 			text-decoration: none;
 		}
 	}
 
 	.company-name {
+<<<<<<< HEAD
 		font-size: 2em;
 		font-weight: bold;
+=======
+		font-size: 1.7em;
+
+>>>>>>> 452e22633d32b0b9d0f08091b50d878a1b9670f7
 	}
 }
 
