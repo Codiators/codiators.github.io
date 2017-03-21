@@ -78,7 +78,8 @@ header {
     header a:hover {
       text-decoration: none; }
   header .company-name {
-    font-size: 1.7em; }
+    font-size: 2em;
+    font-weight: bold; }
 
 .content {
   background: #fff;
