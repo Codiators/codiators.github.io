@@ -1,6 +1,6 @@
 ---
 name: Ravikanth Andhavarapu
-position: Chief Developer
+position: Chief Developer and Mentor
 image_path: "/images/ravikanth.jpg"
-twitter: CloudCannonApp
+github: helloravi
 ---
