@@ -1,6 +1,6 @@
 ---
 name: KJ Venky
-position: Chief Developer
+position: CTO
 image_path: "/images/venky.jpg"
-twitter: CloudCannonApp
+github: kjvenky
 ---

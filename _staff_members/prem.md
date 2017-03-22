@@ -1,6 +1,7 @@
 ---
 name: Prem Patel
-position: Developer
+position: Founder
 image_path: "/images/prem.jpg"
-twitter: CloudCannonApp
+github: prem315
+username: lucario
 ---
