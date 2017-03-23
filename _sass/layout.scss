@@ -243,7 +243,8 @@ section {
 }
 
 .patterned {
-	background: #222 url($pattern);
+	//background: #222 url($pattern);
+	background-color: #fff;
 
 	&,
 	p {

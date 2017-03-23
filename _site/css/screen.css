@@ -6,10 +6,10 @@ html, body {
   padding: 0; }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  font-family: 'Montserrat', sans-serif; }
 
 a {
-  color: #044ed1;
+  color: #1d5a80;
   text-decoration: none; }
 
 a:hover {
@@ -112,16 +112,16 @@ section, footer {
       transform: skewY(5deg); }
   section.hero, footer.hero {
     color: #ffffff;
-    background: #044ed1;
+    background: #1d5a80;
     text-align: left;
     margin-top: -100px;
     padding-top: 250px; }
     section.hero h2, footer.hero h2, section.hero p, footer.hero p {
       max-width: 90%; }
     section.hero h2, footer.hero h2 {
-      font-size: 3.5rem; }
+      font-size: 2.5rem; }
     section.hero p, footer.hero p {
-      font-size: 1.8rem;
+      font-size: 1.3rem;
       color: #fff; }
     section.hero a:not(.button), footer.hero a:not(.button) {
       color: #ffffff;
@@ -130,10 +130,10 @@ section, footer {
     background: #eee; }
 
 .button {
-  padding: 13px 38px;
-  border-radius: 3px;
+  padding: 5px 20px;
+  border-radius: 0px;
   display: inline-block;
-  color: #044ed1;
+  color: #1d5a80;
   text-decoration: none;
   cursor: pointer;
   margin: 20px 0 0 0;
@@ -181,7 +181,7 @@ section, footer {
     margin: 20px;
     border-radius: 5px;
     text-align: left;
-    border: 1px solid #044ed1;
+    border: 1px solid #1d5a80;
     line-height: 0; }
     @media (min-width: 450px) {
       .image-grid li {
@@ -212,7 +212,7 @@ section, footer {
     padding: 20px; }
   .image-grid .name {
     font-size: 1.3rem;
-    color: #044ed1; }
+    color: #1d5a80; }
   .image-grid .position {
     margin-top: 5px;
     color: #fff; }
@@ -227,7 +227,7 @@ section, footer {
   text-align: center; }
 
 .patterned {
-  background: #222 url("/images/pattern.png"); }
+  background-color: #fff; }
   .patterned,
   .patterned p {
     color: #fefefe; }
@@ -303,12 +303,12 @@ input[type=submit] {
   padding: 20px 30px;
   border-radius: 3px;
   transition: 0.2s ease-in-out;
-  border: 1px solid #044ed1;
-  background: #044ed1;
+  border: 1px solid #1d5a80;
+  background: #1d5a80;
   cursor: pointer; }
 
 input[type=submit]:hover {
-  border: 1px solid #044ed1;
+  border: 1px solid #1d5a80;
   background: #FFC461; }
 
 input[type=submit]:active {
@@ -434,7 +434,7 @@ nav {
       border-radius: 5px; }
       nav a.highlight:hover {
         background: #fff;
-        color: #044ed1; } }
+        color: #1d5a80; } }
   nav a.active {
     color: #fff; }
 
