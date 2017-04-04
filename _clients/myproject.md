@@ -1,7 +1,7 @@
 ---
-name: My Project
+name: Rentomojo.com
 subtitle: project details.
-external_url: https://github.com/CloudCannon/cause-jekyll-template
+external_url: 
 image_path: /images/clients/cause.jpg
 ---
 
@@ -10,13 +10,9 @@ This is the project derails. This is the project derails. This is the project de
 
 
 
-## Features
+## Tech Stack
 
-* Pre-built pages
-* Pre-styled components
-* Configurable footer
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* SEO tags
-* Google Analytics
-* [Donorbox](https://donorbox.org/)
-* [MailChimp](https://mailchimp.com/)
+* PHP
+* Magento
+* MySQL
+* JQuery

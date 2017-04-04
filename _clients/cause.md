@@ -1,28 +1,15 @@
 ---
-name: Cause Template
-subtitle: Not for profit template for Jekyll
-external_url: https://github.com/CloudCannon/cause-jekyll-template
+name: Yo Rentals
+subtitle: renting furniture
+external_url: 
 image_path: /images/clients/cause.jpg
 ---
 
-Not for profit themed template for Jekyll. Browse through a [live demo](#TODO).
-Increase the web presence of a not for profit or cause website with this configurable theme.
+## Tech Stack
 
-CloudCannon was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
-
-Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
-
-## Features
-
-* Pre-built pages
-* Pre-styled components
-* Configurable footer
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* SEO tags
-* Google Analytics
-* [Donorbox](https://donorbox.org/)
-* [MailChimp](https://mailchimp.com/)
+* Ruby
+* Runy on Rails
+* MySQL
 
 ## Setup
 
