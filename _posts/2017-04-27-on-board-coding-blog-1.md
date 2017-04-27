@@ -1,5 +1,5 @@
 ---
-title: On-board Coding Blog #1
+title: On-board Coding Blog 1
 author_staff_member: sulay
 show_comments: true
 ---

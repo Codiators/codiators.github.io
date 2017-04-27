@@ -1,4 +1,145 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-27T14:49:27+05:30</updated><id>http://localhost:4000/</id><title>agency</title><subtitle>Codiators - web agency.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title>On-board Coding Blog</title><link href="http://localhost:4000/2017/04/27/on-board-coding-blog-1/" rel="alternate" type="text/html" title="On-board Coding Blog" /><published>2017-04-27T00:00:00+05:30</published><updated>2017-04-27T00:00:00+05:30</updated><id>http://localhost:4000/2017/04/27/on-board-coding-blog-1</id><content type="html" xml:base="http://localhost:4000/2017/04/27/on-board-coding-blog-1/">&lt;p&gt;Hello guys,this is an introductory coding blog/tutorial about the web development for those guys that want to join CODIATORS as web developers. Our expectation about the people that want to work with us as web developers,is that they go through these blogs,do as asked and then contact(sulaythakkar9@gmail.com) us.This will make working with us faster.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-27T15:22:28+05:30</updated><id>http://localhost:4000/</id><title>agency</title><subtitle>Codiators - web agency.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title>On-board Coding Blog 2</title><link href="http://localhost:4000/2017/04/27/on-board-coding-blog-2/" rel="alternate" type="text/html" title="On-board Coding Blog 2" /><published>2017-04-27T00:00:00+05:30</published><updated>2017-04-27T00:00:00+05:30</updated><id>http://localhost:4000/2017/04/27/on-board-coding-blog-2</id><content type="html" xml:base="http://localhost:4000/2017/04/27/on-board-coding-blog-2/">&lt;p&gt;Welcome to the second web development blog/tutorial.This blog will highlight the essential skills required for becoming a good full-stack developer(emphasizing on the word “good”). Also covered are the resources(videos,courses,tutorials,articles,etc.) that will help you in acquiring
+these skills.&lt;/p&gt;
+
+&lt;p&gt;Full-stack development is much more than just front-end and back-end.There are various technologies that are as essential as programming,in order to develop good web applications.The purpose of this tutorial is to open the pandora’s box of the world of web development and introduce to you the skills that a full-stack developer should have.Read them and try to follow up on the resources.&lt;/p&gt;
+
+&lt;p&gt;Just keep in mind that these skills are to be acquired over a considerable period of time and with a lot of experience.Don’t expect to learn them in a hurry.Most of these skills will be automatically acquired once you start developing applications for yourself or for a company like ours(CODIATORS).However,it is necessary to present to you the entire stack of web development(the stack in full-stack development).&lt;/p&gt;
+
+&lt;p&gt;As far as our(codiators’) requirements are concerned you are expected to learn atleast one technology(one for front-end and one for back-end) with basic version control(eg. git)&lt;/p&gt;
+
+&lt;p&gt;In this blog we will highlight the skills a full-stack developer must have(don’t be
+overwhelmed!).And we will tell you which skill or part of the skill you should focus on.Happy learning.&lt;/p&gt;
+
+&lt;p&gt;The following are the main technology stacks required for full-stack development.&lt;/p&gt;
+
+&lt;h2 id=&quot;system-administration&quot;&gt;System Administration&lt;/h2&gt;
+
+&lt;p&gt;System administration refers to the management of one or more hardware and software
+systems.Our application/s will be hosted on a server and we need someone to oversee the management of it.&lt;/p&gt;
+
+&lt;p&gt;This task is performed by a system administrator who monitors system health, monitors and allocates system resources like disk space, performs backups, provides user access, manages user accounts, monitors system security and performs many other functions.
+This skill requires the following sub-skills:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Linux and basic shell scripting&lt;/li&gt;
+  &lt;li&gt;Cloud computing: Amazon, Rackspace, etc.&lt;/li&gt;
+  &lt;li&gt;Background processing: Gearman, Redis&lt;/li&gt;
+  &lt;li&gt;Search: Elasticsearch, Sphinx, Solr&lt;/li&gt;
+  &lt;li&gt;Caching: Varnish, Memcached, APC / OpCache&lt;/li&gt;
+  &lt;li&gt;Monitoring: Nagios&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As of now your focus should be to learn linux and basic shell scripting.Linux powers most of the internet.Most of the web apps are hosted on linux run servers.Shell scripting is a way to communicate with the server(running linux) using commands.Hence learning shell scripting is crucial for a system administrator.&lt;/p&gt;
+
+&lt;p&gt;Following is the standard resource that will help you understand shell scripting and make you learn the same&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.freeos.com/guides/lsst/&quot;&gt;Linux and shell scripting tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;web-development-tools&quot;&gt;Web development tools&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Version control: Git, Mercurial, SVN&lt;/li&gt;
+  &lt;li&gt;Virtualization: VirtualBox, Vagrant, Docker&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The version control should be your focus area.Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. Refer the following link and read more about version control and it’s importance.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://oss-watch.ac.uk/resources/versioncontrol&quot;&gt;Version Control and its Importance&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Git is the standard version control system used by most developers across the world.Git (/ɡɪt/) is a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people.&lt;/p&gt;
+
+&lt;p&gt;Follow the link below and learn git.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://try.github.io/levels/1/challenges/1&quot;&gt;Learn git in 15 minutes&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For now leavle earning virtualization.It’s one of those skills that will be acquired as you become a developer in some organization.&lt;/p&gt;
+
+&lt;h2 id=&quot;pre-requisites-for-web-development&quot;&gt;Pre-requisites For web-development&lt;/h2&gt;
+
+&lt;p&gt;Now before introducing the back-end and front-end technologies, you need to setup your system with essential tools and software installations for practicing and developing web applications.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Operating System
+The operating system may not sound like an important thing to set up.But ask any
+developer about their preferred OS and they all will recommend using Linux Distros.Linux OS’s come with developer friendly features and are therefore used widely by the developer community.Also they are free and OpenSource.Personally I recommend installing Ubuntu from &lt;a href=&quot;https://www.ubuntu.com/download/desktop&quot;&gt;Ubuntu Download&lt;/a&gt;.Install the same by following these &lt;a href=&quot;https://www.ubuntu.com/download/desktop/install-ubuntu-desktop&quot;&gt;steps&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Developer tools
+The place where you write the code can depend on your choice.Various options are available to do the same.You can go for IDE’s(Integrated development environment) or you can choose the text editors.IDE’s will allow you a lot of benefits like writing the code,compiling the code and debugging all in the same place.Choosing which IDE to use depends on the language support you need.Because we will be focussing on RubyOnRails we prefer you to use editors.
+There are many text editors available such as Atom,Sublime,TextMate,etc.Choose any
+according to your system and install accordingly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ruby and Rails Install
+We will essentially want you to focus on learning ruby and rails.To start working on these you will require to install them on your system.
+Follow the steps in this &lt;a href=&quot;http://railsapps.github.io/installrubyonrails-ubuntu.html&quot;&gt;link&lt;/a&gt; to install ruby and rails with rvm(ruby version manager).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;back-end-tech&quot;&gt;Back-end Tech&lt;/h2&gt;
+
+&lt;p&gt;This ​is one of the most important part of a software application.This is the submerged part of the iceberg,which users of the application do not get to see.Also most programming happens in this part.Out of all the skills required to become a full-stack developer this is the single biggest skill.This will also take the maximum learning time.So don’t worry if you spend a few months
+learning and mastering it.Learn this skill well enough and increase your chances of landing a job.&lt;/p&gt;
+
+&lt;p&gt;The following is the list of tech that is part of back-end.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Web servers: Apache, Nginx&lt;/li&gt;
+  &lt;li&gt;Programming language: PHP, NodeJS, Ruby&lt;/li&gt;
+  &lt;li&gt;Database: MySQL, PostgreSQL,MongoDB, Cassandra, Redis, SQL / JSON in general&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The web servers are the software that hosts the web applications.Apache and Nginx are two ofthe most popular web server software available.
+PHP is the by far the most used programming language on the back-end side.However we recommend learning ruby first.Ruby language has a focus on simplicity and productivity.That is,it is easier to learn and understand(simplicity) and it is faster to develop web applications(productivity).&lt;/p&gt;
+
+&lt;p&gt;Ruby on Rails(RoR) is a popular framework for web development written in ruby.It is supported by a large community and has many ruby gems available which aids developing web applications.The gems are useful ruby programs which a developer can install in his/her application without having to write a single line of code himself/herself.A lot of common web functionalities are available as gems.This speeds up the development.&lt;/p&gt;
+
+&lt;p&gt;Start learning ruby first and then shift to learning RoR:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Free Ruby Course&lt;/li&gt;
+  &lt;li&gt;For learning Ruby on Rails,refer the book Ruby On Rails Tutorial(Michael Hartl)
+This will take a lot of time and effort.Persist through it,follow the tutorials and practice.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;front-end-tech&quot;&gt;Front-end Tech&lt;/h2&gt;
+
+&lt;p&gt;The front-end part is what the user gets to see and interact with.To make your application look good and behave good,you will need to learn the following technologies:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;HTML / HTML5: Semantic web&lt;/li&gt;
+  &lt;li&gt;CSS / CSS3: LESS, SASS, Media Queries&lt;/li&gt;
+  &lt;li&gt;JavaScript: jQuery, AngularJS, Knockout, etc.&lt;/li&gt;
+  &lt;li&gt;Compatibility quirks across browsers&lt;/li&gt;
+  &lt;li&gt;Responsive design&lt;/li&gt;
+  &lt;li&gt;AJAX, JSON, XML, WebSocket&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Again no need to learn everything right now.Just put your focus on learning HTML5,CSS3 and some Javascript. HTML and CSS will design your web page layout and make it look good.Javascript will make your application behave well.The interaction made by the user and the corresponding changes on the website are made possible by javascript.Also javascript is the MOST important of all the
+languages,because knowing only javascript you will be able to develop an entire application from front-end to back-en(MEAN stack).This MEAN stack is entirely based on javascript.So learning javascript along with HTML and CSS is very crucial.Follow the given resources for learning these technologies and try to practice them a lot.&lt;/p&gt;
+
+&lt;p&gt;For HTML and CSS:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codecademy.com/learn/web&quot;&gt;Codecademy HTML and CSS course&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rithmschool.com/courses/html-css-fundamentals&quot;&gt;Rithm school free course on HTML and CSS (optional)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rithmschool.com/courses/intermediate-css-bootstrap&quot;&gt;Advanced CSS and Twitter Bootstrap course (optional)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://marksheet.io/&quot;&gt;Marksheet.io (optional)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For Javascript:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codecademy.com/&quot;&gt;Javascript basic codecademy course&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rithmschool.com/courses/javascript&quot;&gt;Rithm school Javascript fundamentals course (optional but highly recommended &amp;amp; personally my favorite)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We have tried our best to give you the references that will help you in becoming a full-stack developer.Let us know about your views on the blogs or if there are any better resources available on the same by commenting below or sending us an
+email(sulaythakkar9@gmail.com).&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary>Welcome to the second web development blog/tutorial.This blog will highlight the essential skills required for becoming a good full-stack developer(emphasizing on the word “good”). Also covered are the resources(videos,courses,tutorials,articles,etc.) that will help you in acquiring
+these skills.</summary></entry><entry><title>On-board Coding Blog 1</title><link href="http://localhost:4000/2017/04/27/on-board-coding-blog-1/" rel="alternate" type="text/html" title="On-board Coding Blog 1" /><published>2017-04-27T00:00:00+05:30</published><updated>2017-04-27T00:00:00+05:30</updated><id>http://localhost:4000/2017/04/27/on-board-coding-blog-1</id><content type="html" xml:base="http://localhost:4000/2017/04/27/on-board-coding-blog-1/">&lt;p&gt;Hello guys,this is an introductory coding blog/tutorial about the web development for those guys that want to join CODIATORS as web developers. Our expectation about the people that want to work with us as web developers,is that they go through these blogs,do as asked and then contact(sulaythakkar9@gmail.com) us.This will make working with us faster.&lt;/p&gt;
 
 &lt;p&gt;However,it should be also helpful to those who simply want to get a heads-up about web-development in general.&lt;/p&gt;
 
