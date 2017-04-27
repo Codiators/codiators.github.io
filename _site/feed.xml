@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-04T17:44:23+05:30</updated><id>http://localhost:4000/</id><title>agency</title><subtitle>Codiators - web agency.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title>The history of marketing</title><link href="http://localhost:4000/marketing/2016/08/12/the-history-of-marketing/" rel="alternate" type="text/html" title="The history of marketing" /><published>2016-08-12T00:00:00+05:30</published><updated>2016-08-12T00:00:00+05:30</updated><id>http://localhost:4000/marketing/2016/08/12/the-history-of-marketing</id><content type="html" xml:base="http://localhost:4000/marketing/2016/08/12/the-history-of-marketing/">&lt;p&gt;The beginnings of digital marketing technology can be traced back to the 1980’s, when computers became sophisticated enough to store huge volumes of customer information. For a brief moment, no one knew what would happen in digital marketing, but by the 90’s it all became clear.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-27T14:49:27+05:30</updated><id>http://localhost:4000/</id><title>agency</title><subtitle>Codiators - web agency.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title>On-board Coding Blog</title><link href="http://localhost:4000/2017/04/27/on-board-coding-blog-1/" rel="alternate" type="text/html" title="On-board Coding Blog" /><published>2017-04-27T00:00:00+05:30</published><updated>2017-04-27T00:00:00+05:30</updated><id>http://localhost:4000/2017/04/27/on-board-coding-blog-1</id><content type="html" xml:base="http://localhost:4000/2017/04/27/on-board-coding-blog-1/">&lt;p&gt;Hello guys,this is an introductory coding blog/tutorial about the web development for those guys that want to join CODIATORS as web developers. Our expectation about the people that want to work with us as web developers,is that they go through these blogs,do as asked and then contact(sulaythakkar9@gmail.com) us.This will make working with us faster.&lt;/p&gt;
+
+&lt;p&gt;However,it should be also helpful to those who simply want to get a heads-up about web-development in general.&lt;/p&gt;
+
+&lt;p&gt;These blogs are not just to cultivate an understanding about the nitty-gritty of web development but also to help the reader build the applications from scratch.This process is covered in blog#3.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-web-development&quot;&gt;What is web development?&lt;/h2&gt;
+
+&lt;p&gt;Web development​ broadly refers to the tasks associated with developing​ websites for hosting via intranet or Internet. The Web development​ process includes Web​design, Web​ content development​, client-side/server-side scripting and network security configuration, among other
+tasks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.techopedia.com/definition/23889/web-development&quot;&gt;Web Development defination&lt;/a&gt;: Techopedia&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-full-stack-development&quot;&gt;What is full-stack development?&lt;/h2&gt;
+
+&lt;p&gt;Before we understand the full-stack development,we need to understand the terms Back-end
+and Front-end first.(Refer the image)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/web-delopment.png&quot; alt=&quot;Full-stack development&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;front-end&quot;&gt;Front-end&lt;/h2&gt;
+
+&lt;p&gt;Front​-end​ web development​, also known as client-side development​ is the practice of
+producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.This side of programming deals with what the user gets to see on the browser,as shown in the above image.(Note: HTML,CSS,Javascript are some well-known front-end languages.)&lt;/p&gt;
+
+&lt;p&gt;The web browser actually interprets the source code,and then renders it for display.Most web browsers today,can only interpret HTML,CSS,Javascript languages.So as far as the front-end is concerned these are the only languages required to be learned.&lt;/p&gt;
+
+&lt;h2 id=&quot;back-end&quot;&gt;Back-end&lt;/h2&gt;
+
+&lt;p&gt;Software applications are like icebergs.&lt;/p&gt;
+
+&lt;p&gt;There is a portion of the application the user sees(front-end) and then—in most cases—the largest part of the application remains unseen. This is the elusive and mystical “back-end”. Most part of the code that gets written for any web application is the back-end code,that does not translate into user interaction code(i.e the visual stuff).&lt;/p&gt;
+
+&lt;p&gt;This includes the storing and retrieving of data from a database,performing some logic on the data and calculating the results.PHP,Ruby and Python are some of the most used back-end(server-side) 
+programming languages.&lt;a href=&quot;https://simpleprogrammer.com/2016/12/12/what-is-back-end-development/&quot;&gt;What is back-end development&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-are-databases&quot;&gt;What are databases?&lt;/h2&gt;
+
+&lt;p&gt;Databases are basically containers for data.This data is information about the users of the application,and other system related data.There are various types of databases,just like we have different languages for front-end and back-end development.The basic purpose of all these databases,is to store data and allow retrieval of data when requested.We choose the type of database according to our data requirements.More on this in the second blog/tutorial.&lt;/p&gt;
+
+&lt;p&gt;Now we can understand the term full-stack development.The term full-stack developer means
+developers who are comfortable working with both back-end and front-end technologies.
+To be more specific, it means that the developer can work with databases, PHP, HTML, CSS,
+JavaScript and everything in between, also, venturing as far as converting Photoshop designs to front-end code.&lt;/p&gt;
+
+&lt;p&gt;A full-stack developer doesn’t need to master all of the areas and technologies he needs to work at, because that just makes it nearly impossible, he just needs to be comfortable working with those technologies, and that’s a lot too.
+&lt;a href=&quot;https://www.sitepoint.com/full-stack-developer/&quot;&gt;Being a full-stack developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This covers the introduction part for the full-stack web development.Check out
+the On-board coding tutorial blog#2 for the skills required to become a good
+full-stack web developer and how to acquire them.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary>Hello guys,this is an introductory coding blog/tutorial about the web development for those guys that want to join CODIATORS as web developers. Our expectation about the people that want to work with us as web developers,is that they go through these blogs,do as asked and then contact(sulaythakkar9@gmail.com) us.This will make working with us faster.</summary></entry><entry><title>The history of marketing</title><link href="http://localhost:4000/marketing/2016/08/12/the-history-of-marketing/" rel="alternate" type="text/html" title="The history of marketing" /><published>2016-08-12T00:00:00+05:30</published><updated>2016-08-12T00:00:00+05:30</updated><id>http://localhost:4000/marketing/2016/08/12/the-history-of-marketing</id><content type="html" xml:base="http://localhost:4000/marketing/2016/08/12/the-history-of-marketing/">&lt;p&gt;The beginnings of digital marketing technology can be traced back to the 1980’s, when computers became sophisticated enough to store huge volumes of customer information. For a brief moment, no one knew what would happen in digital marketing, but by the 90’s it all became clear.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://unsplash.it/960/600?image=133&quot; alt=&quot;Cars&quot; /&gt;&lt;/p&gt;
 
